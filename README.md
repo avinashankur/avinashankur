@@ -14,7 +14,7 @@
 
 <div align="center">
 <details open>
-<summary><h2>Techstack <img src="https://cdn.discordapp.com/emojis/804331814004850698.png?v=1" width="30px"></h2></summary>
+<summary><h2>Techstack</h2></summary>
 <h4>Languages</h4>
 <img src="https://img.shields.io/badge/-cpp-silver?style=for-the-badge">
 <img src="https://img.shields.io/badge/-c-silver?style=for-the-badge">
