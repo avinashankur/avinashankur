@@ -8,10 +8,7 @@
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?avinashankur=DenverCoder1)](https://git.io/streak-stats)
-![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
-
-![](https://komarev.com/ghpvc/?username=avinashankur)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avinashankur)](https://github.com/avinashankur/github-readme-stats)
 
 <!--
 **avinashankur/avinashankur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
