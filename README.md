@@ -30,7 +30,6 @@
 <br>
 <img src="https://img.shields.io/badge/-Bootstrap-grey?style=for-the-badge">
 <img src="https://img.shields.io/badge/-Tailwind CSS-grey?style=for-the-badge">
-<img src="https://img.shields.io/badge/-Firebase Database-grey?style=for-the-badge" >
 
 <h4>Sofware and Tools</h4>
 <img src="https://img.shields.io/badge/-git-grey?style=for-the-badge">
