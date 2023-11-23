@@ -3,7 +3,7 @@
 
 
 <div align="center">
-    <h2>Github Profile Stats 📊</h2>
+    <h2>Github Profile Stat 📊</h2>
     
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinashankur&show_icons=true&title_color=000&icon_color=000&text_color=000&bg_color=f1f0f1&count_private=true&layout=compact&hide_border=true&langs_count=10&hide=shaderlab,hlsl,glsl,jupyter%20notebook,c%23" height="175px">
